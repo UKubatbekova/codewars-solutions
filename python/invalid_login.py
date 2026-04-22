@@ -1,0 +1,8 @@
+# https://www.codewars.com/kata/55e4c52ad58df7509c00007e/train/python
+
+def validate(username, password):
+    database = Database()
+    if '||' in password or '//' in password:
+        return "Wrong username or password!"
+    else:
+        return database.login(username, password)
