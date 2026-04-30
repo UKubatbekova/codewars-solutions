@@ -31,3 +31,4 @@ My solutions to Codewars challenges, organized by language. Started: April 2026
 - Day 23: 6 solutions
 - Day 24: 2 solutions
 - Day 25: 2 solutions
+- Day 26: 3 solutions
