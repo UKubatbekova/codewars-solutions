@@ -45,3 +45,4 @@ My solutions to Codewars challenges, organized by language. Started: April 2026
 - Day 37: 3 solutions
 - Day 38: 3 solutions
 - Day 39: 2 solutions
+- Day 40: 1 solution
