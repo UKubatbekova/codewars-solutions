@@ -76,3 +76,6 @@ My solutions to Codewars challenges, organized by language. Started: April 2026
 - Day 68: 9 solutions
 - Day 69: 2 solutions
 - Day 70: 3 solutions
+- Day 71: 0 solutions
+- Day 72: 0 solutions
+- Day 73: 4 solutions
