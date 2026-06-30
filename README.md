@@ -90,3 +90,7 @@ My solutions to Codewars challenges, organized by language. Started: April 2026
 - Day 82: 5 solutions
 - Day 83: 6 solutions
 - Day 84: 7 solutions
+- Day 85: 0 solutions
+- Day 86: 0 solutions
+- Day 87: 0 solutions
+- Day 88: 4 solutions
